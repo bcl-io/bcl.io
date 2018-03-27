@@ -1,0 +1,18 @@
+# theme: jekyll-theme-minimal
+
+# Site settings
+title: BCL
+email: 
+description: ""
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+twitter_username: ""
+github_repo: ""
+vimeo: ""
+facebook_group: ""
+
+# Plugins
+safe: false
+
+# Build settings
+markdown: kramdown
