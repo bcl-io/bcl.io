@@ -2,8 +2,8 @@
 
 Wordpress vs Jekyll vs Pure HTML?
 
-- [ ] HTML
-- [ ] Jekyll
+- [x] HTML
+- [x] Jekyll
 
 ```
 /  
