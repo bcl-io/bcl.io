@@ -2,6 +2,9 @@
 
 Wordpress vs Jekyll vs Pure HTML?
 
+- [ ] HTML
+- [ ] Jekyll
+
 ```
 /  
 /about  
