@@ -2,6 +2,7 @@
 
 Wordpress vs Jekyll vs Pure HTML?
 
+```
 /  
 /about  
 /about/gt/cv  
@@ -12,3 +13,4 @@ Wordpress vs Jekyll vs Pure HTML?
 
 /announce  
 /contact (form), direct message  
+```
